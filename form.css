@@ -1,1 +1,32 @@
 
+.sfc-form-outer {
+    background: #fff;
+    color: #333;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 5px rgba(0,0,0,.45);
+    margin-top:30px;
+    margin-bottom: 80px;
+    padding: 30px 20px 30px;
+}
+.sfc-form-outer .form-control {
+    height: 42px;
+    border: 2px solid #BDC3C7;
+    box-shadow: none;
+}
+.wrap-wdgtze {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.ww-innerContent {
+    background: #fafafa !important;
+    color:#333 !important;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+    padding: 30px 30px 20px !important;
+}
+.ww-block-content h3 {
+   margin-top:0px !important;
+}
+.ww-block-content h3 a {
+   color:#121212 !important;
+}
